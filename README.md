@@ -19,6 +19,8 @@ Also iam a university student in the major of computer science and iam in my thi
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
 <br />
 
 #
@@ -26,3 +28,5 @@ Also iam a university student in the major of computer science and iam in my thi
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-heddi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
+# Mylinkdin
+<a href="https://www.linkedin.com/in/islam-heddi-b996a0280/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a> 
